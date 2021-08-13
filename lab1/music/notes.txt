@@ -1,0 +1,2 @@
+	10000iter_gen1000len_003.wav	10000iter_gen1000len_004.wav
+start_string="|AGAG |G3C| FEFE| E3C", generation_length=1000
